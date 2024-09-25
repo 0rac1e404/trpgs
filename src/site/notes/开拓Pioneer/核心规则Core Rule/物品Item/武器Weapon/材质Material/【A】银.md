@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/weapon/material/a/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/weapon/material/a/","dgPassFrontmatter":true}
 ---
 
 #武器材质 #普通

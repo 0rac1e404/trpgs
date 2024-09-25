@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/ink-and-ink-pen/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/ink-and-ink-pen/","dgPassFrontmatter":true}
 ---
 
 # 描述

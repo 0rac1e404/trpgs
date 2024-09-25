@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/rope-hempen-50/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/rope-hempen-50/","dgPassFrontmatter":true}
 ---
 
 # 描述

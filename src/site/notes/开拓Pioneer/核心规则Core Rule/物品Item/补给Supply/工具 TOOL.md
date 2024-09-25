@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/tool/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/tool/","dgPassFrontmatter":true}
 ---
 
 # 描述

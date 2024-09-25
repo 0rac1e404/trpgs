@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/weapon/material/c/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/weapon/material/c/","dgPassFrontmatter":true}
 ---
 
 #武器材质 #罕见 

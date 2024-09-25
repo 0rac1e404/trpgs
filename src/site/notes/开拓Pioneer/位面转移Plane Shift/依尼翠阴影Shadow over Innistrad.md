@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/plane-shift/shadow-over-innistrad/"}
+{"dg-publish":true,"cssclasses":["hide-header-underline-2"],"permalink":"/pioneer/plane-shift/shadow-over-innistrad/","dgPassFrontmatter":true}
 ---
 
 >[!quote] *你的尖牙朋友，* *雅琳*

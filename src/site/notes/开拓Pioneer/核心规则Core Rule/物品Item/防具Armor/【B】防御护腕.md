@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/armor/b/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/armor/b/","dgPassFrontmatter":true}
 ---
 
 #防具 #稀有 #需同调 

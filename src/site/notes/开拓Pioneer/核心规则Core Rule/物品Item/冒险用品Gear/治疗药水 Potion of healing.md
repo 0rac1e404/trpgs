@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/potion-of-healing/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/potion-of-healing/","dgPassFrontmatter":true}
 ---
 
 # 描述

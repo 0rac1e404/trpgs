@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/component-pouch/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/component-pouch/","dgPassFrontmatter":true}
 ---
 
 # 描述

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/e/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/e/","dgPassFrontmatter":true}
 ---
 
 #奇物 #普通 

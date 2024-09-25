@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/candle/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/candle/","dgPassFrontmatter":true}
 ---
 
 # 描述

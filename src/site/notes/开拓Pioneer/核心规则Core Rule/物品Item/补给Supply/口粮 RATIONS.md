@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/rations/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/rations/","dgPassFrontmatter":true}
 ---
 
 # 描述

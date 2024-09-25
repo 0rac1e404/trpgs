@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/paper/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/paper/","dgPassFrontmatter":true}
 ---
 
 # 描述

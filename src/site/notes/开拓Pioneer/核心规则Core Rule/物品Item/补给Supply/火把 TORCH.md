@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/torch/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/torch/","dgPassFrontmatter":true}
 ---
 
 # 描述

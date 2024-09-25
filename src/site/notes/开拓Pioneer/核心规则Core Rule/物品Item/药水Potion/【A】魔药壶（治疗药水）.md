@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/potion/a/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/potion/a/","dgPassFrontmatter":true}
 ---
 
 #罕见#药水 #奇物

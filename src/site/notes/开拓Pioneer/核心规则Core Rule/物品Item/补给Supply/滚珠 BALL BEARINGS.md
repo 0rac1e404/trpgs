@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/ball-bearings/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/ball-bearings/","dgPassFrontmatter":true}
 ---
 
 # 描述

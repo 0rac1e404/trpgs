@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/druidic-focus/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/druidic-focus/","dgPassFrontmatter":true}
 ---
 
 # 描述

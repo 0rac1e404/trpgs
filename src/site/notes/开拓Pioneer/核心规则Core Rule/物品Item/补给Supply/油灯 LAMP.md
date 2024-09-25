@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/lamp/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/lamp/","dgPassFrontmatter":true}
 ---
 
 # 描述

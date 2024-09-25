@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/poison-basic/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/poison-basic/","dgPassFrontmatter":true}
 ---
 
 # 描述

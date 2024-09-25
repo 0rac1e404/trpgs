@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/adventure-item/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/adventure-item/","dgPassFrontmatter":true}
 ---
 
 这一章节将介绍冒险物品。在真正的冒险生涯中，麻绳，火把、口粮甚至比利剑更加重要。在大部分D&D世界中，你都可以在乡镇和更大的文明聚落中找到售卖这些东西的商家；本章节所列举的商品大多十分常见，更为稀有或昂贵的商品见[[开拓Pioneer/核心规则Core Rule/物品Item/魔法物品Magic Item\|魔法物品Magic Item]]。

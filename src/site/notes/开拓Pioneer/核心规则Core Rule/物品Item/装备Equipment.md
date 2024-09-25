@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/equipment/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/equipment/","dgPassFrontmatter":true}
 ---
 
 >[!quote] ——《霍比特人》

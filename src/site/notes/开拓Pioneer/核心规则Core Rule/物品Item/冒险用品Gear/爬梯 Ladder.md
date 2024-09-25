@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/ladder/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/ladder/","dgPassFrontmatter":true}
 ---
 
 # 描述

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/oil/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/oil/","dgPassFrontmatter":true}
 ---
 
 # 描述

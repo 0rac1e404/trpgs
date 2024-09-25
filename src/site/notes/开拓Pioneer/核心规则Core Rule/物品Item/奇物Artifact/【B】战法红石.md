@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/b/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/b/","dgPassFrontmatter":true}
 ---
 
 #普通 #需同调 （施法者）

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/holy-water/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/holy-water/","dgPassFrontmatter":true}
 ---
 
 # 描述

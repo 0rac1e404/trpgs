@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/d/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/d/","dgPassFrontmatter":true}
 ---
 
 

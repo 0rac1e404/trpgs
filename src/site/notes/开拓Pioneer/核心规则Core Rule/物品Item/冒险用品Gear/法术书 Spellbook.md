@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/spellbook/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/spellbook/","dgPassFrontmatter":true}
 ---
 
 # 描述

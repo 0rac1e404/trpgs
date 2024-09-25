@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/healer-s-kit/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/healer-s-kit/","dgPassFrontmatter":true}
 ---
 
 # 描述

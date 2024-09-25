@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/magic-item/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/magic-item/","dgPassFrontmatter":true}
 ---
 
 能够散发神圣光芒的宝剑，允许看穿任何隐形的戒指，还有能给予穿戴者无穷力量的手套；在DND的世界中，魔法物品是最为特殊，最为强大，也最为稀有的物件。许多冒险家出生入死，只为了能够获取一件传说中十分强大的魔法物品。

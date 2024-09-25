@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/f/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/artifact/f/","dgPassFrontmatter":true}
 ---
 
 #奇物 #罕见  #需同调 

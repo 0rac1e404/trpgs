@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/chest-barrel/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/chest-barrel/","dgPassFrontmatter":true}
 ---
 
 # 描述

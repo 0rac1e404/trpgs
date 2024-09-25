@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/f/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/f/","dgPassFrontmatter":true}
 ---
 
 #首饰 #罕见

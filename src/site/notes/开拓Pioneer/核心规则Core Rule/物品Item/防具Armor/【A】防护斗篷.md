@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/armor/a/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/armor/a/","dgPassFrontmatter":true}
 ---
 
 #罕见防具 #需同调 （板甲）

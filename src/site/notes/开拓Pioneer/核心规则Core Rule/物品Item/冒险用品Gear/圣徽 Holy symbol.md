@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/holy-symbol/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/holy-symbol/","dgPassFrontmatter":true}
 ---
 
 # 描述

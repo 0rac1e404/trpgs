@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/bedroll/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/bedroll/","dgPassFrontmatter":true}
 ---
 
 # 描述

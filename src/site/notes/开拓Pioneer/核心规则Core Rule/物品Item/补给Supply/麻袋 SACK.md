@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/sack/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/sack/","dgPassFrontmatter":true}
 ---
 
 # 描述

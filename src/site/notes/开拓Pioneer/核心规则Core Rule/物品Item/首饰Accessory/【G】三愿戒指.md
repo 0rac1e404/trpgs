@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/g/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/g/","dgPassFrontmatter":true}
 ---
 
 #首饰 #传说

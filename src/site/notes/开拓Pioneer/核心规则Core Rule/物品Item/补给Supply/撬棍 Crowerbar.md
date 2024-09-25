@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/crowerbar/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/crowerbar/","dgPassFrontmatter":true}
 ---
 
 # 描述

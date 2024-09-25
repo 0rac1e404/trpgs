@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/waterskin/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/waterskin/","dgPassFrontmatter":true}
 ---
 
 # 描述

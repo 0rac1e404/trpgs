@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/arcane-focus/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/arcane-focus/","dgPassFrontmatter":true}
 ---
 
 # 描述

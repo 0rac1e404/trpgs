@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/caltrops/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/caltrops/","dgPassFrontmatter":true}
 ---
 
 # 描述

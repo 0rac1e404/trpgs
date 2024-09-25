@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/campaign-information/campaign-introduction/"}
+{"dg-publish":true,"cssclasses":["hide-header-underline-2"],"permalink":"/pioneer/campaign-information/campaign-introduction/","dgPassFrontmatter":true}
 ---
 
 

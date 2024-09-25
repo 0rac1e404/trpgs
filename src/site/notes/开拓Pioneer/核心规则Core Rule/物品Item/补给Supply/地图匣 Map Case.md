@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/map-case/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/map-case/","dgPassFrontmatter":true}
 ---
 
 # 描述

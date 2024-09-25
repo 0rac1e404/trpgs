@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/e/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/accessory/e/","dgPassFrontmatter":true}
 ---
 
 #首饰 #罕见需同调 

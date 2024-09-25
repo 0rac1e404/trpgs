@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/hooded-lantern/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/supply/hooded-lantern/","dgPassFrontmatter":true}
 ---
 
 # 描述

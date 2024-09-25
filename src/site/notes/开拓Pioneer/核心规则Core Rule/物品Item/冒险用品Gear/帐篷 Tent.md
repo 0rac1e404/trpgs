@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/tent/"}
+{"dg-publish":true,"permalink":"/pioneer/core-rule/item/gear/tent/","dgPassFrontmatter":true}
 ---
 
 # 描述
